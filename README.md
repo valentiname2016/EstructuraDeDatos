@@ -1,3 +1,6 @@
 # EstructuraDeDatos
 
-Agregando información al Readme 
+Agregando información nueva
+Hola
+Chao
+Hasta luego
